@@ -1,0 +1,6 @@
+n1=int(input("enter the frist number:"))
+ n2=int(input("enter the second number:"))
+print(n1+n2)
+print(n1-n2)
+print(n1*n2)
+print(n1/n2)
